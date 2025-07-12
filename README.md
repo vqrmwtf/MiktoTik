@@ -64,5 +64,5 @@ This project simulates a small office network using MikroTik CHR (Cloud Hosted R
 
 ## Author
 
-Created by [Viqram Ananta Wataf], IT Network and Cybersecurity.  
+Created by Viqram Ananta Wataf, IT Network and Cybersecurity.  
 Reach out via [[LinkedIn]](https://www.linkedin.com/in/viqramwataf/).
